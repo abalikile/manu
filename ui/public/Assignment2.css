@@ -1,0 +1,47 @@
+table.bordered-table th,td {
+border: 2px solid #000000; 
+padding:8px;
+}
+
+table.bordered-table {
+border-collapse:collapse;
+}
+
+p{
+font-size:14pt;	
+}
+form{
+width:450px;	
+}
+form div{
+margin-bottom:20px;	
+margin-right:20px;
+}
+select{
+width:165px;
+}
+.fleft{
+float:left;	
+margin-right:20px;
+}
+.color1{
+background-color:#000;
+color:#fff;
+}
+.color2{
+background-color:#339966;
+color:#fff;
+}
+label{
+font-weight:bold;
+}
+.color3{
+background-color:#000;
+color:#fff;
+}
+
+.color3:hover{
+font-weight:bold;	
+background-color:#fff;
+color:#000;
+}
